@@ -1,4 +1,4 @@
-update=Wed 14 Oct 2015 17:15:48 CEST
+update=Thu 15 Oct 2015 11:28:54 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -58,6 +58,8 @@ LibName28=contrib
 LibName29=valves
 LibName30=/home/nail/src/hw/kicad/library/BLK-MD-SPK-B
 LibName31=/home/nail/src/hw/kicad/library/XS3860
+[general]
+version=1
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -68,5 +70,3 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
-[general]
-version=1
