@@ -22,7 +22,7 @@ with LCD
 
 <img src="https://raw.githubusercontent.com/tomaskovacik/fordacp/master/hw/fordacp_3d.png">
 
-witout LCD
+without LCD
 
 <img src="https://raw.githubusercontent.com/tomaskovacik/fordacp/master/hw/fordacp_noLCD_3d.png">
 
