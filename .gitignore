@@ -1,2 +1,4 @@
-_saved_*
+*saved*
 *.kicad_pcb-bak
+*autosave*
+*swp*
