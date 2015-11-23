@@ -9,7 +9,7 @@ untested
 <a href="http://kovo-blog.blogspot.sk/2015/01/breadboard-adapter-for-blk-md-spk-b.html">BLK-MD-SPK-B</a> module support.
 <a href="http://kovo-blog.blogspot.sk/2015/06/xs3868-breadbord-adapter.html">XS3860</a> module support.
 
-sechematics
+schematics
 ------------
 <a href="https://github.com/tomaskovacik/fordacp/raw/master/hw/schematics.pdf">schematics in pdf</a>
 
