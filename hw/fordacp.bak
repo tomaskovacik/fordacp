@@ -1360,7 +1360,7 @@ U 1 1 564ED864
 P 6650 900
 F 0 "P2" H 6650 1100 50  0000 C CNN
 F 1 "CONN_02X03" H 6650 700 50  0000 C CNN
-F 2 "Pin_Headers:Pin_Header_Straight_2x03" H 6650 -300 60  0000 C CNN
+F 2 "Pin_Headers:Pin_Header_Straight_2x03" H 6500 1200 60  0001 C CNN
 F 3 "" H 6650 -300 60  0000 C CNN
 	1    6650 900 
 	1    0    0    -1  

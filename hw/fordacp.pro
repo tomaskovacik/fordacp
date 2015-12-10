@@ -1,4 +1,4 @@
-update=Thu 15 Oct 2015 11:28:54 CEST
+update=Tue 08 Dec 2015 09:33:53 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,18 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/home/nail/src/fordacp/hw/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
 [eeschema]
 version=1
 LibDir=
@@ -58,15 +70,3 @@ LibName28=contrib
 LibName29=valves
 LibName30=/home/nail/src/hw/kicad/library/BLK-MD-SPK-B
 LibName31=/home/nail/src/hw/kicad/library/XS3860
-[general]
-version=1
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=/home/nail/src/fordacp/hw/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=60
