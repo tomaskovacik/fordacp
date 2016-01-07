@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew 0.201510140731+6267~30~ubuntu14.04.1-product)
+(kicad_pcb (version 4) (host pcbnew 0.201601061458+6427~40~ubuntu14.04.1-stable)
 
   (general
     (links 108)
     (no_connects 0)
-    (area 182.804999 54.788999 264.870001 97.293501)
+    (area 182.745499 53.69582 264.870001 100.866333)
     (thickness 1.6)
     (drawings 10)
     (tracks 554)
@@ -1121,7 +1121,7 @@
       (net 1 GND))
   )
 
-  (module my_modules:XS3868 (layer F.Cu) (tedit 55758A75) (tstamp 561E99AC)
+  (module my_modules:S3860M-S (layer F.Cu) (tedit 568E6CA1) (tstamp 561E99AC)
     (at 238.9624 84.8616)
     (path /561E2723)
     (fp_text reference U4 (at 7.8 -18.7) (layer F.SilkS)

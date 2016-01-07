@@ -1,4 +1,4 @@
-update=Tue 05 Jan 2016 13:09:14 CET
+update=Thu 07 Jan 2016 14:41:28 CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -69,4 +69,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=/home/nail/src/hw/kicad/library/BLK-MD-SPK-B
-LibName31=/home/nail/src/hw/kicad/library/XS3868
+LibName31=/home/nail/src/hw/kicad/library/S3860M-S

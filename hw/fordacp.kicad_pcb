@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew 0.201512281231+6406~40~ubuntu14.04.1-stable)
+(kicad_pcb (version 4) (host pcbnew 0.201601061458+6427~40~ubuntu14.04.1-stable)
 
   (general
     (links 107)
@@ -1386,7 +1386,7 @@
       (net 1 GND))
   )
 
-  (module my_modules:XS3868 (layer F.Cu) (tedit 564F05D6) (tstamp 5628E537)
+  (module my_modules:S3860M-S (layer F.Cu) (tedit 568E6C7E) (tstamp 5628E537)
     (at 118.36066 110.1092)
     (path /561E2723)
     (fp_text reference U4 (at 7.8 -18.7) (layer F.SilkS) hide
@@ -1572,7 +1572,7 @@
   (gr_text BLK-MD-SPK-B (at 127.9525 101.092 270) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (gr_text XS3868 (at 131.953 107.2515 270) (layer F.SilkS)
+  (gr_text S3860M-S (at 131.953 107.2515 270) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (gr_text MIC (at 136.144 91.948) (layer B.SilkS)

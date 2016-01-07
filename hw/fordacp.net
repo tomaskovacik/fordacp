@@ -35,7 +35,7 @@
       (tstamp 561E26CC))
     (comp (ref U4)
       (value XS3860)
-      (footprint my_modules:XS3868)
+      (footprint my_modules:S3860M-S)
       (libsource (lib XS3860) (part XS3860))
       (sheetpath (names /) (tstamps /))
       (tstamp 561E2723))
