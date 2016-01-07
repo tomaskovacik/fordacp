@@ -7,7 +7,7 @@ work in progress
 untested
 
 <a href="http://kovo-blog.blogspot.sk/2015/01/breadboard-adapter-for-blk-md-spk-b.html">BLK-MD-SPK-B</a> module support.
-<a href="http://kovo-blog.blogspot.sk/2015/06/xs3868-breadbord-adapter.html">XS3860</a> module support.
+<a href="http://kovo-blog.blogspot.sk/2015/06/S3860M-S-breadbord-adapter.html">S3860M-S</a> module support.
 
 schematics
 ------------
