@@ -1,4 +1,4 @@
-SW  its Dale Thomas work not my
+SW is Dale Thomas/Krzysztof Pintscher/Andrew Hammond work not my
 
 I make just HW part in kicad, libraries for BLK-MD-SPK-B and S3860M-S <a href="https://github.com/tomaskovacik/hw/tree/master/kicad/library">here</a>
 
