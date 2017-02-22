@@ -1,5 +1,9 @@
 SW is Dale Thomas/Krzysztof Pintscher/Andrew Hammond work not my
 
+www.instructables.com/id/Ford-CD-Emulator-Arduino-Mega/
+http://www.instructables.com/id/Ford-Bluetooth-Interface-Control-phone-with-stock-/
+
+
 I make just HW part in kicad, libraries for BLK-MD-SPK-B and S3860M-S <a href="https://github.com/tomaskovacik/hw/tree/master/kicad/library">here</a>
 
 work in progress
