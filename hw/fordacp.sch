@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:fordacp-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -277,15 +278,15 @@ F 3 "" H 8650 2200 60  0000 C CNN
 	1    8650 2200
 	1    0    0    -1  
 $EndComp
-Text Label 11150 1450 2    60   ~ 0
+Text Label 11200 1450 2    60   ~ 0
 BT_RX
-Text Label 11150 1550 2    60   ~ 0
+Text Label 11200 1550 2    60   ~ 0
 BT_TX
 Text Label 10800 3050 2    60   ~ 0
 BT_RX
 Text Label 10800 3150 2    60   ~ 0
 BT_TX
-Text Label 11150 1650 2    60   ~ 0
+Text Label 11200 1650 2    60   ~ 0
 BT_RST
 Text Label 10800 3450 2    60   ~ 0
 BT_RST
@@ -377,7 +378,7 @@ Text Label 8250 1650 0    60   ~ 0
 LED1
 Text Label 8250 1850 0    60   ~ 0
 LED2
-Text Label 11150 1950 2    60   ~ 0
+Text Label 11200 1950 2    60   ~ 0
 BT_WAKE
 $Comp
 L GND #PWR3
@@ -413,7 +414,7 @@ F 3 "" H 2750 2150 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L POT RV1
+L POT-RESCUE-fordacp RV1
 U 1 1 561EB8B0
 P 1450 2650
 F 0 "RV1" H 1450 2550 50  0000 C CNN
@@ -1200,13 +1201,13 @@ Wire Wire Line
 Wire Wire Line
 	10750 1450 11150 1450
 Wire Wire Line
-	11150 1550 10750 1550
+	10750 1550 11200 1550
 Wire Wire Line
 	10400 3050 10800 3050
 Wire Wire Line
 	10800 3150 10400 3150
 Wire Wire Line
-	10750 1650 11150 1650
+	10750 1650 11200 1650
 Wire Wire Line
 	10400 3450 10800 3450
 Wire Wire Line
@@ -1243,7 +1244,7 @@ Wire Wire Line
 Wire Wire Line
 	8250 1850 8800 1850
 Wire Wire Line
-	10750 1950 11150 1950
+	10750 1950 11200 1950
 Wire Wire Line
 	1250 2150 1250 1850
 Wire Wire Line
